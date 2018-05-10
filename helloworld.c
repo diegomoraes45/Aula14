@@ -4,7 +4,7 @@ main(){
 
 printf("Olá Mundo sua besta");
 
-printf("Fica fazendo merda!");
+printf("Fica fazendo programa bom!");
 
 
 
